@@ -3,4 +3,5 @@ pandas
 matplotlib
 scikit-learn
 tensorflow
-csv
+seaborn
+scipy
