@@ -1,0 +1,3 @@
+cluster,size_%,Year_of_Construction,GroundFloorArea(sq m),NoStoreys,UValueWall,UValueRoof,UValueFloor,UValueWindow,InsulationThickness,HSMainSystemEfficiency,WHMainSystemEff,BeRating_mean,CO2Rating_mean
+0,70.3,1992.0,117.84,2.0,0.55,0.26,0.44,2.44,30.0,90.6,90.7,177.77994970931536,38.575925034747655
+1,29.7,2025.0,105.48,2.0,0.18,0.13,0.14,1.2,0.0,448.01,250.88,39.015558614846974,5.297221222069258
