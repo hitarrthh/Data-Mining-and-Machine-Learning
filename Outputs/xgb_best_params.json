@@ -1,0 +1,28 @@
+{
+  "params": {
+    "colsample_bytree": 0.6158283238967915,
+    "gamma": 0.32240459614701233,
+    "learning_rate": 0.03951115492332668,
+    "max_depth": 9,
+    "min_child_weight": 4.849787506050526,
+    "reg_alpha": 0.17175065121314081,
+    "reg_lambda": 16.408774225181617,
+    "subsample": 0.6450629913596945
+  },
+  "n_estimators": 457,
+  "class_weights": false,
+  "bands": [
+    "A2",
+    "A3",
+    "B1",
+    "B2",
+    "B3",
+    "C1",
+    "C2",
+    "C3",
+    "D1",
+    "D2",
+    "E1",
+    "E2"
+  ]
+}
